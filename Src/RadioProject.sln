@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioProject", "RadioProject\RadioProject.csproj", "{819ED24F-3BCD-4FE4-9CE8-67B8EB00EE3B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1BBC2F81-E9C2-4E48-8F59-8629E5613C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819ED24F-3BCD-4FE4-9CE8-67B8EB00EE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819ED24F-3BCD-4FE4-9CE8-67B8EB00EE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819ED24F-3BCD-4FE4-9CE8-67B8EB00EE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819ED24F-3BCD-4FE4-9CE8-67B8EB00EE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBC2F81-E9C2-4E48-8F59-8629E5613C39}.Debug|Any CPU.ActiveCfg = Debug
+		{1BBC2F81-E9C2-4E48-8F59-8629E5613C39}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
