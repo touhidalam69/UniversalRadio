@@ -28,7 +28,6 @@ C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\bin\Debug\RadioProject.exe
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\bin\Debug\RadioProject.pdb
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\bin\Debug\Interop.WMPLib.dll
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\bin\Debug\AxInterop.WMPLib.dll
-C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\obj\Debug\RadioProject.csprojResolveAssemblyReference.cache
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\obj\Debug\RadioProject.MainForm.resources
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\obj\Debug\RadioProject.Properties.Resources.resources
 C:\Github\Uni Radio\UniversalRadio\Src\RadioProject\obj\Debug\RadioProject.csproj.GenerateResource.Cache

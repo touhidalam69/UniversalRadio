@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_6EBC5916553E4390A5508BED1D992D97"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_96129B4237E044729AFEB40DFFCCC930"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -86,6 +92,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
             }
         }
         "Release"
@@ -140,6 +154,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6EBC5916553E4390A5508BED1D992D97"
+            {
+            "SourcePath" = "8:C:\\Users\\touhid_alam\\Downloads\\iconradio.ico"
+            "TargetName" = "8:iconradio.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_45194D52DAEC4F9E9128A2D9F0678385"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CCC91690A0261FBDBCACC2259E9DC45A"
             {
             "AssemblyRegister" = "3:1"
@@ -279,7 +313,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Uni Radio"
         "ProductCode" = "8:{A4481D89-DC45-4124-953D-76214841929B}"
-        "PackageCode" = "8:{826630BF-B103-4B61-8C27-1163F3D45D26}"
+        "PackageCode" = "8:{8D64AA40-7513-4563-9A09-C1C784B3D7A8}"
         "UpgradeCode" = "8:{499E65C0-D4D5-46C8-B6A5-0A65E2A2AC44}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -399,21 +433,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_1594B49E00CF4B8DA8F6AF92A767BFBA"
-            {
-            "Name" = "8:Uni Radio"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_96129B4237E044729AFEB40DFFCCC930"
-            "Folder" = "8:_D55EB03EAC4F4166AFF3846F256D52AB"
-            "WorkingFolder" = "8:_45194D52DAEC4F9E9128A2D9F0678385"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_CEE63EA96EBE4BB58C2FF1280A807843"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_001E809FCE4F4C04BFD95B5888335761"
             {
             "Name" = "8:Uni Radio"
             "Arguments" = "8:"
@@ -424,7 +444,21 @@
             "Target" = "8:_96129B4237E044729AFEB40DFFCCC930"
             "Folder" = "8:_96AB25D8DDA44803AA75284E6BA5C768"
             "WorkingFolder" = "8:_45194D52DAEC4F9E9128A2D9F0678385"
-            "Icon" = "8:"
+            "Icon" = "8:_6EBC5916553E4390A5508BED1D992D97"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DA0AFD305E1D4D6D8E36BA0D99C8061E"
+            {
+            "Name" = "8:Uni Radio"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_96129B4237E044729AFEB40DFFCCC930"
+            "Folder" = "8:_D55EB03EAC4F4166AFF3846F256D52AB"
+            "WorkingFolder" = "8:_45194D52DAEC4F9E9128A2D9F0678385"
+            "Icon" = "8:_6EBC5916553E4390A5508BED1D992D97"
             "Feature" = "8:"
             }
         }
