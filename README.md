@@ -2,7 +2,7 @@
 
 About this Project
 ------------------
-This is an Open source Universal Radio Project. Initially we added 30 Radio channel of three countries. Its is our goal to add all available radio channels all over the world. As it's a Open source Desktop application, anyone can add their favourite channels over here.
+This is an Open source Universal Radio Project. Initially we added thirty Radio channel of three countries. It's our goal to add all available radio channels all over the world. As it's a Open source Desktop application, anyone can add their favourite channels over here.
 
 
 Installation Steps
@@ -16,3 +16,9 @@ Installation Steps
 * Click Next
 * A Pop up window may prompt. Select Yes.
 * You have successfully installed the Universal Radio
+
+How to Play
+-----------
+* Open Application
+* Select Country and Radio Channel from Drop-down list
+* Click on Play Button
