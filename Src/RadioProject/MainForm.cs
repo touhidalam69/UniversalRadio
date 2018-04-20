@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace RadioProject
@@ -46,12 +44,4 @@ namespace RadioProject
             catch (Exception ex) { MessageBox.Show(ex.Message); }
         }
     }
-
-    public class RadioChannel
-    {
-        public string Country { get; set; }
-        public string Url { get; set; }
-        public string Name { get; set; }
-    }
-    
 }
